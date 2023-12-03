@@ -57,7 +57,7 @@ namespace Tyuiu.ShtolAA.Sprint6.Task1.V12
 
         private void buttonSpravka_SAA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 0 выполнила студентка группы ИИПб-23-3 Штоль Александра Алексеевна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Таск 1 выполнила студентка группы ИИПб-23-3 Штоль Александра Алексеевна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
